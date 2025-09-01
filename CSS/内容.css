@@ -1,0 +1,31 @@
+/* div */
+li {
+    list-style: none;
+    font-size: 30px;
+}
+
+.li2-1 {
+    border: 5px solid rgb(78, 88, 78);
+    float: right;
+    border-radius: 10px;
+    height: 300px;
+    position: relative;
+    right: 5px;
+    z-index: 0;
+}
+
+.div2-2 {
+    float: right;
+}
+
+
+.a2-1 {
+    text-decoration: none;
+    color: #4000ff;
+}
+
+.a2-1:hover {
+    text-decoration: none;
+    color: #c800ff45;
+}
+

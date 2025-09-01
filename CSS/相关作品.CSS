@@ -1,0 +1,59 @@
+.img0-1 {
+    width: 200px;
+    height: 300px;
+
+}
+video {
+    border: 5px solid #948f89;
+    border-radius: 20px;
+    width: 1000px;
+    height: 563px;
+    position: relative;
+    left: 65px;
+}
+
+/* 电影 */
+.div0-0 {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+    width: 90%;
+    height: 1880px;
+    margin: 0 auto;
+}
+
+.div0-1 {
+    display: flex;
+    position: relative;
+    right: -50px;
+}
+
+.div0-2 {
+    background-color: rgba(100, 148, 237, 0.5);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 5px solid #948f89;
+    width: 200px;
+    height: 350px;
+    font-size: 30px;
+    font-family: '资源圆体';
+    margin: 25px;
+    transition: all 0.5s ease;
+}
+.div0-2:hover {
+    background-color: rgba(239, 241, 244, 0.904);
+    transform: scale(1.08);
+}
+
+/* 电视剧 */
+.div0-4 {
+    background-color: rgba(83, 170, 246, 0.2);
+    border-radius: 30px;
+    width: 90%;
+    height: 1280px;
+    margin: 0 auto;
+    position: relative;
+    top: 30px;
+}
+
+
+

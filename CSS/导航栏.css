@@ -1,0 +1,41 @@
+a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    font-size: 30px;
+}
+
+.a1:hover {
+    background-color: rgba(165, 42, 42, 0.479);
+    font-size: 31px;
+    border-radius: 10px;
+
+}
+.a1-0{
+    background-color: rgba(165, 42, 42, 0.479);
+        color: rgb(255, 255, 255);
+        border-radius: 10px;
+}
+
+.a1-1 {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    position: relative;
+    left: 700px;
+    z-index: -1;
+}
+
+.dvi1 {
+    background: linear-gradient(#f57f01, #e3c584);
+    border-radius: 5px;
+    height: 60px;
+    /* 引入字体 */
+    font-family: '资源圆体';
+    display: flex;
+    /* box-sizing: ; */
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
